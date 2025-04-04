@@ -1,10 +1,10 @@
 // hey there, kindly read this file till the end for better configuration
 
 global.settings = {
-  OWNER_NUMBERS: '2348160247341', // replace with your number with country code
+  OWNER_NUMBERS: '22967535294', // replace with your number with country code
   OWNER_NAME: 'シ', // you owner name 
   BOT_NAME: 'Kord AI', // your preferred bot name
-  SESSION_ID: '', // replace your_sessionid with yours and make sure its inside the ''
+  SESSION_ID: 'kord_ai-ajNsKt0DPFgG', // replace your_sessionid with yours and make sure its inside the ''
   INVINCIBLE_MODE: false, // toogle invincible mode 
   WORK_MODE: "public",
   TIME_ZONE: "Africa/Lagos",
@@ -24,7 +24,7 @@ global.settings = {
   AUTO_LIKE_EMOJI: '🫆',
   BANKING_DETAILS: {
     bank: "Kord-Ai Bank", // the name of your preferred bank
-    acc_number: "1234567890", // account number for your preferred bank
+    acc_number: "22967535294", // account number for your preferred bank
     acc_name: "MyAccountName" // name of your bank
   },
   /* You can also replace the numkord_ai-Cc2TYTL6Tkf2bers with your addresses if you're using crypto, a command for this will come soon. */
