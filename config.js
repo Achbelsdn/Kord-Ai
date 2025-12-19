@@ -23,7 +23,7 @@ module.exports = {
     READ_MESSAGE: process.env.READ_MESSAGE || "false",
     OWNER_NAME: process.env.OWNER_NAME || "Mirage",
     BOT_NAME: process.env.BOT_NAME || "Kord",
-    RENDER_API_KEY: process.env.RENDER_API_KEY,
+    RENDER_API_KEY: process.env.RENDER_API_KEY || "rnd_tDT939I2hhRojQfOBdG8o7VqnG1J",
     ANTIDELETE: process.env.ANTIDELETE || "on",
     ANTIDELETE_INCHAT: process.env.ANTIDELETE_INCHAT || "off",
     ANTI_EDIT: process.env.ANTI_EDIT || "off",
